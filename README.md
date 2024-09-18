@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science 
-- 💼 &nbsp; Working as a Frontend Developer
+- 💼 &nbsp; Working as a MERN-stack Developer
 - 🌱 &nbsp; Learning more about node.js mongodb express.
 
 
