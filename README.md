@@ -65,30 +65,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
----
-
-<h3>💼 &nbsp;Work Experience</h3>
-
-- <strong>Senior Full Stack Developer</strong> | <em>Azzurri Tech</em> (2024-12 - Present)  
-  - Built and deployed scalable SaaS supporting 78+ branches & 300K+ clients using Node.js, React, & AWS.
-  - Led frontend architecture with React, dashboards, booking, and advanced security (RBAC, JWT, OAuth2).
-  - Implemented CI/CD pipelines and enforced best cloud security practices.
-
-- <strong>Senior Frontend Developer</strong> | <em>Hashed System</em> (2024-06 - 2024-11)  
-  - Enhanced e-commerce platforms, resolved critical production issues, and developed new features.
-
-- <strong>Senior Frontend Developer | MERN Stack Enthusiast</strong> | <em>DexterSol</em> (2020-03 - 2024-05)  
-  - Built pixel-perfect, responsive UIs with React, Next.js, Tailwind, MUI.
-  - Contributed to Node.js backends & managed AWS deployments.
-
----
-
-<h3>📚 &nbsp;Education</h3>
-
-- <strong>Government College of Township</strong>  
-  Intermediate in Computer Science (2017-09 - 2019-10)
-
----
+ 
 
 <h3>📞 &nbsp;Contact Me</h3>
 
