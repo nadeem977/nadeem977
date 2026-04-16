@@ -2,8 +2,8 @@
 
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🚀 &nbsp; Full Stack Developer with 4+ years of expertise in building scalable SaaS platforms.
-- 🏢 &nbsp; Senior Full Stack Developer at Azzurri Tech | Ex-Senior Frontend at DexterSol & Hashed System.
+- 🚀 &nbsp; Full Stack Developer with 5+ years of expertise in building scalable SaaS platforms.
+- 🏢 &nbsp; Senior Full Stack Developer at Wanile| Ex-Senior Frontend at DexterSol, Hashed System & Azzurri Tech.
 - 🤖 &nbsp; Passionate about integrating AI/ML to automate workflows and enhance user experiences.
 - 🔥 &nbsp; Specializing in MERN, Next.js, NestJS, microservices, and AWS cloud solutions.
 - 🧑‍💻 &nbsp; Always exploring modern tech: microservices, shadcn/ui, externity-ui, CI/CD, AWS S3, and more.
